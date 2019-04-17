@@ -50,10 +50,10 @@ class _bodyNikkiClub extends State<bodyNikkiClub> {
 		final Size screenSize = MediaQuery.of(context).size;
 
 		var settings = new ConnectionSettings(
-			host: '5.145.175.138',
-			user: 'admin_admin',
-			password: 'Joman\$2016',
-			db: 'admin_wp_nikkiclub'
+			host: '',
+			user: '',
+			password: '',
+			db: ''
 		);
 		return new Container(
 			padding: new EdgeInsets.only(left: 200,right: 200,top: 40),
